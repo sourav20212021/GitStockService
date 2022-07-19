@@ -9,5 +9,8 @@ public class Department {
 	public static void dp_1(){
 		System.out.println("Dept-1");
 	}
+	public static void dp_2(){
+		System.out.println("Dept-2");
+	}
 
 }
