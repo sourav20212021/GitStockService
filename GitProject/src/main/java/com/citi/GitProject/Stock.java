@@ -11,6 +11,9 @@ public class Stock {
 	public void stock_3(){
 		System.out.println("Stocks-3");
 	}
+	public void stock_4(){
+		System.out.println("Stocks-4");
+	}	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
