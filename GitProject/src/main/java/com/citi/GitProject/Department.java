@@ -6,8 +6,5 @@ public class Department {
 		// TODO Auto-generated method stub
 
 	}
-	public static void dp_1(){
-		System.out.println("Dept-1");
-	}
 
 }
