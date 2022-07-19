@@ -14,5 +14,8 @@ public class Department {
 		System.out.println("Dept-2");
 	}
 
+	public static void dp_3(){
+		System.out.println("Dept-3");
+	}
 
 }
